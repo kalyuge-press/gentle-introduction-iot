@@ -21,7 +21,8 @@ and merge as needed.
  5. Wireless sensor networks: 6LoWPAN
  6. Industrial automation protocols: Modbus, Fieldbus, OPC, Bacnet
  7. Fog computing: decentralized computing architectures
- 8. Bringing it all together: building our first enterprise IoT implementation
+ 8. Bringing it all together: building our first enterprise IoT
+    implementation (OEE)
  9. Going further: basic analytics
  10. Making it go further: LoRa and LPWA 
  11. Afterword
