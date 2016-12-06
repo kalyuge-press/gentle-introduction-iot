@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-** Enterprise IoT: a hands-on approach** is a book about enterprise
+**Enterprise IoT: a hands-on approach** is a book about enterprise
 IoT. This is a term that often used but rarely explained. In this book
 it means **real world** situations in industrial settings. Moving away
 from consumer applications like smart home, wearables, etc.
