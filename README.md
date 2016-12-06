@@ -1,4 +1,4 @@
-# Enterprise IoT a hands-on approach
+# Enterprise IoT: A Hands-On Approach
 
 ## Introduction 
 
