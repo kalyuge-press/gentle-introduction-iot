@@ -23,7 +23,8 @@ and merge as needed.
  7. Fog computing: decentralized computing architectures
  8. Bringing it all together: building our first enterprise IoT implementation
  9. Going further: basic analytics
- 10. Afterthoughts
+ 10. Making it go further: LoRa and LPWA 
+ 11. Afterword
 
 ## Editors
 
