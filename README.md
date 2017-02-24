@@ -1,11 +1,11 @@
-# Enterprise IoT: A Hands-On Approach
+# A gentle introduction to IoT: a hands-on approach
 
 ## Introduction 
 
-**Enterprise IoT: a hands-on approach** is a book about enterprise
+**A gentle introduction to IoT: a hands-on approach** is a book about real world
 IoT. This is a term that often used but rarely explained. In this book
-it means **real world** situations in industrial settings. Moving away
-from consumer applications like smart home, wearables, etc.
+it means **real world** situations in various settings, from smart
+home to industrial applications.
 
 ## Contribution procedure
 
@@ -14,22 +14,24 @@ and merge as needed.
 
 ## Contents
 
- 1. Enterprise IoT: definition and motivation
+ 1. hands-on IoT: definition and motivation
  2. Sensors and Actuators: a gentle introduction
  3. Industrial sensors and actuators
  4. Sensor network topologies
- 5. Wireless sensor networks: 6LoWPAN
- 6. Industrial automation protocols: Modbus, Fieldbus, OPC, Bacnet
- 7. Fog computing: decentralized computing architectures
- 8. Bringing it all together: building our first enterprise IoT
+ 5. Wireless sensor networks: WiFi
+ 6. Wireless sensor networks: Bluetooh
+ 7. Wireless sensor networks: 6LoWPAN
+ 8. Industrial automation protocols: Modbus, Fieldbus, OPC, Bacnet
+ 9. Fog computing: decentralized computing architectures
+ 10. Bringing it all together: building our first enterprise IoT
     implementation (OEE)
- 9. Going further: basic analytics
- 10. Making it go further: LoRa and LPWA 
- 11. Afterword
+ 11. Going further: basic analytics
+ 12. Making it go further: LoRa, Sigfox (LPWA) 
+ 13. Afterword
 
 ## Editors
 
-Antonio & Brian, aka, your documentation team.
+Antonio & Brian, aka, Kalyuge Press editors
 
 ## License
 
